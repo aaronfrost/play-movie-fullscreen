@@ -1,0 +1,15 @@
+button#afro-close-fullscreen{
+    padding: 10px;
+    background: white;
+    opacity: .4;
+    cursor: pointer;
+}
+button#afro-close-fullscreen:hover{
+    opacity: 1;
+}
+.afro-button-wrapper{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1000;
+}
