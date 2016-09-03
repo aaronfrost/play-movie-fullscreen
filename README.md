@@ -4,6 +4,8 @@ The movie player on play.google.com/movies only takes up part of the screen. Thi
 
 ## How to Install
 
+- Download this repo, either as a **zip** file, or clone it using **git**. 
+    - If you don't know what it means to __clone it using git__, then you should just download the repo as a **zip** file.  
 - In Chrome, go to url [chrome://extensions/](chrome://extensions/).
 - Click the box that says **Developer Mode** in the top right.
     - Notice that the button **Load unpacked extensions** will appear when you check this box. 
