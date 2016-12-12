@@ -3,7 +3,7 @@
 
   "name": "Play Movies Fullscreen",
   "description": "This extension will play movies on play.google.com/movies in the full window.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "icons": {
     "16": "logos/16_video.png",
     "48": "logos/48_video.png",
@@ -14,7 +14,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://play.google.com/movies"],
+      "matches": ["https://play.google.com/*"],
       "css": ["outerstyles.css"],
       "js": ["libs/jquery.min.js", "outer.js"]
     },
