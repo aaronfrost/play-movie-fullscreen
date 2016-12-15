@@ -4,6 +4,11 @@ This extension make it take as much spaces as possible. This is great cause
 you get a bigger player, without having to click "FULLSCREEN" which does weird 
 shiz in MacOS. 
 
+Here is the affect of the Play Movie Fullscreen extension
+| With Play Movie Fullscreen   | Without Play Movie Fullscreen |
+| ---------------------------- | ----------------------------- |
+| ![large]()
+
 **IF YOU HAVE ANY PROBLEMS**, please go [HERE](https://github.com/aaronfrost/play-movie-fullscreen/issues) 
 and submit an issue with as much detail as you can. 
 
