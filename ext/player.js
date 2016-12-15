@@ -3,7 +3,6 @@ $(()=>{
     let movieTitle;
     setTimeout(()=>{
         movieTitle = document.querySelector('.playing-title').innerHTML;
-        console.log('Hello ', movieTitle)
         tracker.sendEvent('PlayerView', 'open', movieTitle);
     }, 1000);
 
