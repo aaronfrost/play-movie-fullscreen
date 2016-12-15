@@ -1,4 +1,6 @@
 ![](https://github.com/aaronfrost/play-movie-fullscreen/blob/master/ext/logos/128_video.png?raw=true)
+![](https://github.com/aaronfrost/play-movie-fullscreen/blob/master/ext/logos/48_video.png?raw=true)
+![](https://github.com/aaronfrost/play-movie-fullscreen/blob/master/ext/logos/16_video.png?raw=true)
 # play-movie-fullscreen
 The movie player on play.google.com/movies only takes up part of the screen. 
 This extension make it take as much spaces as possible. This is great cause 
