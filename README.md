@@ -8,10 +8,10 @@ you get a bigger player, without having to click "FULLSCREEN" which does weird
 shiz in MacOS. 
 
 Here is the affect of the Play Movie Fullscreen extension
-![](https://github.com/aaronfrost/play-movie-fullscreen/blob/master/assets/images/pmf-large.webp?raw=true | width=100)  
+![](https://github.com/aaronfrost/play-movie-fullscreen/blob/master/assets/images/pmf-large.webp?raw=true|width=100)  
 
 Without Play Movie Fullscreen
-![](https://github.com/aaronfrost/play-movie-fullscreen/blob/master/assets/images/pmf-small.webp?raw=true | width=100)
+![](https://github.com/aaronfrost/play-movie-fullscreen/blob/master/assets/images/pmf-small.webp?raw=true|width=100)
 
 **IF YOU HAVE ANY PROBLEMS**, please go [HERE](https://github.com/aaronfrost/play-movie-fullscreen/issues) 
 and submit an issue with as much detail as you can. 
