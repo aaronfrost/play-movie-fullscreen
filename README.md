@@ -19,10 +19,12 @@ and submit an issue with as much detail as you can.
 
 ## How to Install
 
-###Install from Chrome Webstore
+### Install from Chrome Webstore
+
 The easiest way to install is to go to the Chrome Web Store and install from [HERE](https://chrome.google.com/webstore/detail/play-movies-fullscreen/nienaghdopiidkcmeoadejnnjangghnm). 
 
-###Install manually
+### Install manually
+
 - Download this repo, either as a **zip** file, or clone it using **git**. 
     - If you don't know what it means to __clone it using git__, then you should just download the repo as a **zip** file.  
 - In Chrome, go to url [chrome://extensions/](chrome://extensions/).
