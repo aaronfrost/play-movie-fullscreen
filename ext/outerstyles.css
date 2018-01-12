@@ -1,7 +1,8 @@
-body > .modal-dialog.video-preview > .id-contents-wrapper > .contents > iframe{
+body .video-preview > .id-contents-wrapper > .contents > iframe,
+content iframe[src^="https://play.google.com/video/lava/player"] {
     position: fixed;
-    top:0;
-    left:0;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
 }
