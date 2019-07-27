@@ -7,7 +7,7 @@ $(() => {
     }, 1000);
 
     //ADD A BUTTON TO THE PLAYER
-    const closeButtonTemplate = `<div class="afro-button-wrapper"><button id="afro-close-fullscreen">CLOSE PLAYER (or hit Escape)</button></div>`;
+    const closeButtonTemplate = `<div class="afro-button-wrapper"><button id="afro-close-fullscreen">hit Escape to close player</button></div>`;
     $("body").append(closeButtonTemplate);
 
     //WHEN BUTTON IS CLICKED, SEND MESSAGE TO BACKGROUND.JS

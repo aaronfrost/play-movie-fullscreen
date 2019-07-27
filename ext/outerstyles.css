@@ -1,5 +1,6 @@
 body .video-preview > .id-contents-wrapper > .contents > iframe,
-content iframe[src^="https://play.google.com/video/lava/player"] {
+content iframe[src^="https://play.google.com/video/lava/player"],
+iframe.pmf-iframe{
     position: fixed;
     top: 0;
     left: 0;
