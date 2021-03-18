@@ -2,7 +2,7 @@ $(() => {
     //Track loading of page
     let movieTitle;
     setTimeout(() => {
-        movieTitle = document.querySelector(".playing-title").innerHTML;
+        movieTitle = document.querySelector(".playing-title, .navigation .title").innerHTML;
         tracker.sendEvent("PlayerView", "open", movieTitle);
     }, 1000);
 

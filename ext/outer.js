@@ -19,7 +19,7 @@ setInterval(()=> {
     const filter = Array.prototype.filter;
 
     // For each iframe that matches, filter to the ones we're looking for and then add the targeting class
-    const playerIframe = filter.call(iframes, (i)=> i.src.startsWith("https://play.google.com/video/lava/player"))
+    const playerIframe = filter.call(iframes, (i)=> i.src.startsWith("https://play.google.com/video/lava"))
       .forEach(iframe => {
           iframe.classList.add('pmf-iframe');
       });
